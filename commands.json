@@ -1,0 +1,337 @@
+{
+    "version": 2,
+    "data": [
+        {
+            "command": "w",
+            "rank": ["All"]
+        },
+        {
+            "command": "msg",
+            "rank": ["All"]
+        },
+        {
+            "command": "reloadcmd",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "agent",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "allowlist",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "camerashake",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "changesetting",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "changeworld",
+            "rank": ["All"]
+        },
+        {
+            "command": "changeworldplayer",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "clear",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "clearspawnpoint",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "clone",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "codebuilder_actorinfo",
+            "rank": ["All"]
+        },
+        {
+            "command": "damage",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "daylock",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "deop",
+            "rank": ["Host"]
+        },
+        {
+            "command": "dialogue",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "difficulty",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "effect",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "enchant",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "event",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "execute",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "fill",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "fog",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "function",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "gamemode",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "gamerule",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "gametest",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "gettopsolidblock",
+            "rank": ["Host"]
+        },
+        {
+            "command": "give",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "help",
+            "rank": ["All"]
+        },
+        {
+            "command": "inputpermission",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "kick",
+            "rank": ["Mod","Admin"]
+        },
+        {
+            "command": "kill",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "list",
+            "rank": ["All"]
+        },
+        {
+            "command": "listd",
+            "rank": ["Automation"]
+        },
+        {
+            "command": "locate",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "loot",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "me",
+            "rank": ["All"]
+        },
+        {
+            "command": "mobevent",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "music",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "op",
+            "rank": ["Host"]
+        },
+        {
+            "command": "particle",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "permission",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "playanimation",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "playsound",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "querytarget",
+            "rank": ["Host"]
+        },
+        {
+            "command": "rank",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "reload",
+            "rank": ["Host"]
+        },
+        {
+            "command": "replaceitem",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "ride",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "save",
+            "rank": ["Host"]
+        },
+        {
+            "command": "say",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "schedule",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "scoreboard",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "script",
+            "rank": ["Host"]
+        },
+        {
+            "command": "setblock",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "setmaxplayers",
+            "rank": ["Automation"]
+        },
+        {
+            "command": "setworldspawn",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "spawnpoint",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "spreadplayers",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "stop",
+            "rank": ["Host"]
+        },
+        {
+            "command": "stopsound",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "structure",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "summon",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "tag",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "teleport",
+            "rank": ["Automation"]
+        },
+        {
+            "command": "tell",
+            "rank": ["All"]
+        },
+        {
+            "command": "tellraw",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "testfor",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "testforblock",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "testforblocks",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "tickingarea",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "time",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "title",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "titleraw",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "toggledownfall",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "weather",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "worldok",
+            "rank": ["Host"]
+        },
+        {
+            "command": "worlds",
+            "rank": ["Admin"]
+        },
+        {
+            "command": "worldsruns",
+            "rank": ["Host"]
+        },
+        {
+            "command": "wsserver",
+            "rank": ["Host"]
+        },
+        {
+            "command": "xp",
+            "rank": ["Admin"]
+        }
+    ]
+}

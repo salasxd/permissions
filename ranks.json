@@ -1,0 +1,137 @@
+{
+    "version": 2,
+    "data": [
+        {
+            "rank": "User",
+            "showRank": false,
+            "positionRank": 0,
+            "joinedServer": {
+                "show": true,
+                "sound": {
+                    "enabled": false,
+                    "name": ""
+                }
+            },
+            "leftServer": {
+                "show": true,
+                "sound": {
+                    "enabled": false,
+                    "name": ""
+                }
+            },
+            "colorRank": "§a",
+            "colorChat": "§f",
+            "levelPermissions": 1,
+            "permissions": {
+                "build": true,
+                "mine": true,
+                "doorAndSwitches": true,
+                "openContainers": true,
+                "attackPlayers": true,
+                "attackMobs": true,
+                "operatorCommands": false,
+                "teleport": false,
+                "exposedAbilityCount": false,
+                "invulnerable": false,
+                "flying": false,
+                "mayFly": false,
+                "instaBuild": false,
+                "lightning": false,
+                "flySpeed": 0.049999237060546875,
+                "walkSpeed": 0.09999847412109375,
+                "muted": false,
+                "worldBuilder": false,
+                "noClip": false,
+                "abilityCount": 0
+            }
+        },
+        {
+            "rank": "Mod",
+            "showRank": true,
+            "positionRank": 0,
+            "joinedServer": {
+                "show": true,
+                "sound": {
+                    "enabled": false,
+                    "name": ""
+                }
+            },
+            "leftServer": {
+                "show": true,
+                "sound": {
+                    "enabled": false,
+                    "name": ""
+                }
+            },
+            "colorRank": "§6",
+            "colorChat": "§e",
+            "levelPermissions": 2,
+            "permissions": {
+                "build": true,
+                "mine": true,
+                "doorAndSwitches": true,
+                "openContainers": true,
+                "attackPlayers": true,
+                "attackMobs": true,
+                "operatorCommands": true,
+                "teleport": true,
+                "exposedAbilityCount": false,
+                "invulnerable": false,
+                "flying": false,
+                "mayFly": false,
+                "instaBuild": false,
+                "lightning": false,
+                "flySpeed": 0.049999237060546875,
+                "walkSpeed": 0.09999847412109375,
+                "muted": false,
+                "worldBuilder": false,
+                "noClip": false,
+                "abilityCount": 0
+            }
+        },
+        {
+            "rank": "Admin",
+            "showRank": true,
+            "positionRank": 0,
+            "joinedServer": {
+                "show": true,
+                "sound": {
+                    "enabled": false,
+                    "name": ""
+                }
+            },
+            "leftServer": {
+                "show": true,
+                "sound": {
+                    "enabled": false,
+                    "name": ""
+                }
+            },
+            "colorRank": "§p",
+            "colorChat": "§g",
+            "levelPermissions": 3,
+            "permissions": {
+                "build": true,
+                "mine": true,
+                "doorAndSwitches": true,
+                "openContainers": true,
+                "attackPlayers": true,
+                "attackMobs": true,
+                "operatorCommands": true,
+                "teleport": true,
+                "exposedAbilityCount": false,
+                "invulnerable": false,
+                "flying": false,
+                "mayFly": false,
+                "instaBuild": false,
+                "lightning": false,
+                "flySpeed": 0.049999237060546875,
+                "walkSpeed": 0.09999847412109375,
+                "muted": false,
+                "worldBuilder": false,
+                "noClip": false,
+                "abilityCount": 0
+            }
+        }
+    ]
+}
